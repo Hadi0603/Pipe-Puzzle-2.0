@@ -1,0 +1,5 @@
+NAME : Pipe Link Mania
+PACKAGE NAME : com.plm.pipelinkmania
+KEYSTORE NAME/ ALIAS/COMPANY: plm
+PASSWORD : Airi@dev01
+IL2CPP,ARM 7 ARM 64 TICK.
